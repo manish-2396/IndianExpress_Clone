@@ -20,7 +20,7 @@ At a time when India was struggling for her freedom, oppression was rife and the
 
 ## Deployment Link
 
-https://indianexpressclone.netlify.app/
+https://62ff4a0819ae1d6132e30b21--indian-express-037.netlify.app/
 
 
 ## Blog Link
