@@ -20,16 +20,7 @@ At a time when India was struggling for her freedom, oppression was rife and the
 
 ## Deployment Link
 
-https://62ff4a0819ae1d6132e30b21--indian-express-037.netlify.app/
-
-
-## Blog Link
-
-https://medium.com/@jaisprajwal.1999/masai-school-construct-week-project-3283853a3fe6
-
-## Presentation Video Link
-
-https://drive.google.com/file/d/1-EqGtcDcwr--27eVli17bL42fo1TsvCV/view?usp=sharing
+ **[Deployment Link](https://62ff4a0819ae1d6132e30b21--indian-express-037.netlify.app/)**
 
 ## 🔗 Team Members & Contributions
     1. Prajwal Jaiswal
